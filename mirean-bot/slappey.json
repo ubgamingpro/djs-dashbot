@@ -2,6 +2,5 @@
   "name": "mirean-bot",
   "language": "typescript",
   "manager": "yarn",
-  "token": "MTAwOTg0MTk2MDM0Njk5MjcyMQ.GSMGTK.uz94crqZH55Zvui0wxc4ttDR2JO4GDCBUBaee8",
   "prefix": "=?"
 }
