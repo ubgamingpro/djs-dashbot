@@ -1,4 +1,4 @@
-require('dotenv').config;
+require('dotenv').config();
 import { registerCommands, registerEvents } from './utils/registry';
 import config from '../slappey.json';
 import DiscordClient from './client/client';
